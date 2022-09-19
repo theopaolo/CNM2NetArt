@@ -1,34 +1,30 @@
-# Création Numérique semestre 1 - NetArt
-## Objectifs du semestre
+# CRÉATION NUMÉRIQUE SEMESTRE 1 - NETART
+## OBJECTIFS DU SEMESTRE
 * Produire 3 à 4 pages web à l'aide HTML, CSS et Javascript
 * Comprendre déveloper un regard critique sur le web et le netArt
 * Déveloper un esthétique personnelle sur le web
 
-## Questionnements
+## QUESTIONNEMENTS
 
-### Web
+### WEB
 * Comment fonctionne le web
 * Qu'est ce qu'un serveur
 * C'est quoi le web 2.0 et le 3.0
 * Qu'est ce qu'un client et navigateur
 * Qu'est ce qu'un langage de programmation
-
-
-### NetArt
-
+### NETART
 * Qu'est ce que le netart et l'art numérique ?
 * Quelques thématiques du netart
 * Quelques artistes du netart
 * Quelques oeuvres du netart
 
-## Les liens utiles
+## DES LIENS UTILES
 
-
-### NetArt
+### NETART
 * [NetArt Anthology](https://anthology.rhizome.org/)
 * [ArtPort](https://whitney.org/artport)
 
-### Web
+### WEB
 
 * [MDN](https://developer.mozilla.org/fr/)
 * [CSS Tricks Guides](https://css-tricks.com/guides/)
@@ -43,9 +39,7 @@
 * [Comment apprendre css](https://la-cascade.io/articles/comment-apprendre-css)
 * [Affichage du texte](https://la-cascade.io/articles/controler-affichage-du-texte)
 
-
-
-# Premier cours
+# COURS I
 
 Durant ce primier cours nous avons :
 
@@ -67,5 +61,49 @@ Pour ceux qui on réussie à utiliser git en ligne de commandes :
 
 Pour ceux qui utilise un GUI ( graphical user interface), il suffit de cliquer sur les boutons correspondant.
 
+# COURS II - Texte, poésie, écriture
 
+## Objectifs
+Manipuler et mettre en page du texte avec HTML et CSS
 
+## LIENS
+
+### Outils
+* [FramaPad](https://mypads2.framapad.org/p/netart-uu1igq9bq)
+* [CryptPad](https://cryptpad.fr/pad/#/2/pad/edit/DhB-GYO-WDQKk6OKdc8KhgRU/)
+* [Chatons](https://www.chatons.org/)
+* [Framalibre](https://framalibre.org/)
+
+### Oeuvres
+* [BurntMatches](https://pippinbarr.com/burnt-matches/)
+* [Symphony in Acid](https://symphonyinacid.net/)
+* [Jenny Holzer](https://projects.jennyholzer.com/)
+* [Barbara Kruger](http://www.barbarakruger.com/art.shtml)
+* [Index de liens](https://textarthistory.com/artist-links/)
+* [Godar film generator](https://rednoise.org/rita/gallery/TheGodardFilmGenerator/)
+### Guides
+* [Guide de la typographie](https://www.alsacreations.com/article/lire/1641-guide-de-la-typographie.html)
+* [Vanilla Javascript Text Animation Tutorial](https://www.youtube.com/watch?v=GUEB9FogoP8)
+* [JavaScript String Object - Programming with Text](https://www.youtube.com/watch?v=DcoAjEZYies)
+* [Vanilla JavaScript Text Animation Tutorial](https://www.youtube.com/watch?v=XGioNBHrFU4)
+
+## LEXIQUE
+
+### Serveur
+
+### Client
+
+### Centralization et decentralization
+
+### Interface
+
+### WEB
+
+### NET
+
+### Code
+
+### DATA
+
+### P2P : Peer to peer
+Le pair-à-pair, peer-to-peer ou P2P, définit un modèle de réseau informatique d'égal à égal entre ordinateurs, qui distribuent et reçoivent des données ou des fichiers. Dans ce type de réseau, comparable au réseau client-serveur, chaque client devient lui-même un serveur. Le P2P facilite et accélère les échanges entre plusieurs ordinateurs au sein d'un réseau.
