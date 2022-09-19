@@ -1,24 +1,8 @@
-# Premier cours
-
-Durant ce primier cours nous avons :
-
-Mis en place un environement de travail et codé une première page index.html
-
-**Outils utilisés**
-* le versionning avec git
-* l'éditeur de texte vscode
-* le terminal
-* github et les github pages
-
-## Les commandes utiles
-
-Pour ceux qui on réussie à utiliser git en ligne de commandes :
-
-* git add . - permet d'ajouter des fichiers au commit
-* git commit -m "message" - permet de faire un commit
-* git push origin main - permet d'envoyer les commits sur github
-
-Pour ceux qui utilise un GUI ( graphical user interface), il suffit de cliquer sur les boutons correspondant.
+# Création Numérique semestre 1 - NetArt
+## Objectifs du semestre
+* Produire 3 à 4 pages web à l'aide HTML, CSS et Javascript
+* Comprendre déveloper un regard critique sur le web et le netArt
+* Déveloper un esthétique personnelle sur le web
 
 ## Questionnements
 
@@ -28,6 +12,7 @@ Pour ceux qui utilise un GUI ( graphical user interface), il suffit de cliquer s
 * C'est quoi le web 2.0 et le 3.0
 * Qu'est ce qu'un client et navigateur
 * Qu'est ce qu'un langage de programmation
+
 
 ### NetArt
 
@@ -57,4 +42,30 @@ Pour ceux qui utilise un GUI ( graphical user interface), il suffit de cliquer s
 * [OCR CSS](https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3)
 * [Comment apprendre css](https://la-cascade.io/articles/comment-apprendre-css)
 * [Affichage du texte](https://la-cascade.io/articles/controler-affichage-du-texte)
+
+
+
+# Premier cours
+
+Durant ce primier cours nous avons :
+
+Mis en place un environement de travail et codé une première page index.html
+
+**Outils utilisés**
+* le versionning avec git
+* l'éditeur de texte vscode
+* le terminal
+* github et les github pages
+
+## Les commandes utiles
+
+Pour ceux qui on réussie à utiliser git en ligne de commandes :
+
+* git add . - permet d'ajouter des fichiers au commit
+* git commit -m "message" - permet de faire un commit
+* git push origin main - permet d'envoyer les commits sur github
+
+Pour ceux qui utilise un GUI ( graphical user interface), il suffit de cliquer sur les boutons correspondant.
+
+
 
