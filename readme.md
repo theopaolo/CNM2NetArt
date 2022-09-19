@@ -1,8 +1,8 @@
 # CRÉATION NUMÉRIQUE SEMESTRE 1 - NETART
 ## OBJECTIFS DU SEMESTRE
 * Produire 3 à 4 pages web à l'aide HTML, CSS et Javascript
-* Comprendre déveloper un regard critique sur le web et le netArt
-* Déveloper un esthétique personnelle sur le web
+* Comprendre et déveloper un regard critique sur le web et le NetArt
+* Déveloper une esthétique personnelle avec les outils du web
 
 ## QUESTIONNEMENTS
 
@@ -48,7 +48,7 @@
 * [Phaser.js](https://phaser.io/)
 * [Aframe](https://aframe.io/)
 
-# COURS I
+# COURS I - VSC, GIT, HTML
 
 Durant ce primier cours nous avons :
 
@@ -70,7 +70,7 @@ Pour ceux qui on réussie à utiliser git en ligne de commandes :
 
 Pour ceux qui utilise un GUI ( graphical user interface), il suffit de cliquer sur les boutons correspondant.
 
-# COURS II - Texte, poésie, écriture
+# COURS II - Texte, Poésie, Typographie
 
 ## Objectifs
 Manipuler et mettre en page du texte avec HTML et CSS
@@ -90,12 +90,11 @@ Manipuler et mettre en page du texte avec HTML et CSS
 * [Index de liens](https://textarthistory.com/artist-links/)
 * [Godar film generator](https://rednoise.org/rita/gallery/TheGodardFilmGenerator/)
 ### Guides
-* [Guide de la typographie](https://www.alsacreations.com/article/lire/1641-guide-de-la-typographie.html)
 * [Vanilla Javascript Text Animation Tutorial](https://www.youtube.com/watch?v=GUEB9FogoP8)
 * [JavaScript String Object - Programming with Text](https://www.youtube.com/watch?v=DcoAjEZYies)
 * [Vanilla JavaScript Text Animation Tutorial](https://www.youtube.com/watch?v=XGioNBHrFU4)
 
-# LEXIQUE
+# LEXIQUE (EN COURS)
 ## Serveur
 ## Client
 ## Centralization et decentralization
