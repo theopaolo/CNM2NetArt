@@ -39,6 +39,15 @@
 * [Comment apprendre css](https://la-cascade.io/articles/comment-apprendre-css)
 * [Affichage du texte](https://la-cascade.io/articles/controler-affichage-du-texte)
 
+### Libraries
+* [P5.js](https://p5js.org/)
+* [Ritajs](https://github.com/dhowe/ritajs)
+* [Tone.js](https://tonejs.github.io/)
+* [Three.js](https://threejs.org/)
+* [Paper.js](https://paperjs.org/)
+* [Phaser.js](https://phaser.io/)
+* [Aframe](https://aframe.io/)
+
 # COURS I
 
 Durant ce primier cours nous avons :
@@ -70,7 +79,6 @@ Manipuler et mettre en page du texte avec HTML et CSS
 
 ### Outils
 * [FramaPad](https://mypads2.framapad.org/p/netart-uu1igq9bq)
-* [CryptPad](https://cryptpad.fr/pad/#/2/pad/edit/DhB-GYO-WDQKk6OKdc8KhgRU/)
 * [Chatons](https://www.chatons.org/)
 * [Framalibre](https://framalibre.org/)
 
@@ -87,23 +95,14 @@ Manipuler et mettre en page du texte avec HTML et CSS
 * [JavaScript String Object - Programming with Text](https://www.youtube.com/watch?v=DcoAjEZYies)
 * [Vanilla JavaScript Text Animation Tutorial](https://www.youtube.com/watch?v=XGioNBHrFU4)
 
-## LEXIQUE
-
-### Serveur
-
-### Client
-
-### Centralization et decentralization
-
-### Interface
-
-### WEB
-
-### NET
-
-### Code
-
-### DATA
-
-### P2P : Peer to peer
+# LEXIQUE
+## Serveur
+## Client
+## Centralization et decentralization
+## Interface
+## WEB
+## NET
+## Code
+## DATA
+## P2P : Peer to peer
 Le pair-à-pair, peer-to-peer ou P2P, définit un modèle de réseau informatique d'égal à égal entre ordinateurs, qui distribuent et reçoivent des données ou des fichiers. Dans ce type de réseau, comparable au réseau client-serveur, chaque client devient lui-même un serveur. Le P2P facilite et accélère les échanges entre plusieurs ordinateurs au sein d'un réseau.
