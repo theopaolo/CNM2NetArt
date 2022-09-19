@@ -1,21 +1,22 @@
 # Premier cours
 
 Durant ce primier cours nous avons :
+
 Mis en place un environement de travail et codé une première page index.html
 
-Outils utilisés :
-  - le versionning avec git
-  - l'éditeur de texte vscode
-  - le terminal
-  - github et les github pages
+**Outils utilisés**
+* le versionning avec git
+* l'éditeur de texte vscode
+* le terminal
+* github et les github pages
 
 ## Les commandes utiles
 
 Pour ceux qui on réussie à utiliser git en ligne de commandes :
 
-git add . - permet d'ajouter des fichiers au commit
-git commit -m "message" - permet de faire un commit
-git push origin main - permet d'envoyer les commits sur github
+* git add . - permet d'ajouter des fichiers au commit
+* git commit -m "message" - permet de faire un commit
+* git push origin main - permet d'envoyer les commits sur github
 
 Pour ceux qui utilise un GUI ( graphical user interface), il suffit de cliquer sur les boutons correspondant.
 
@@ -39,8 +40,8 @@ Pour ceux qui utilise un GUI ( graphical user interface), il suffit de cliquer s
 
 
 ### NetArt
-[NetArt Anthology](https://anthology.rhizome.org/)
-[ArtPort](https://whitney.org/artport)
+* [NetArt Anthology](https://anthology.rhizome.org/)
+* [ArtPort](https://whitney.org/artport)
 
 ### Web
 
