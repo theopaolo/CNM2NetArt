@@ -71,10 +71,8 @@ Pour ceux qui on réussie à utiliser git en ligne de commandes :
 Pour ceux qui utilise un GUI ( graphical user interface), il suffit de cliquer sur les boutons correspondant.
 
 # COURS II - Texte, Poésie, Typographie
-
 ## Objectifs
 Manipuler et mettre en page du texte avec HTML et CSS
-
 ## LIENS
 ### Outils
 * [FramaPad](https://mypads2.framapad.org/p/netart-uu1igq9bq)
@@ -83,22 +81,21 @@ Manipuler et mettre en page du texte avec HTML et CSS
 ### Oeuvres
 * [BurntMatches](https://pippinbarr.com/burnt-matches/)
 * [Symphony in Acid](https://symphonyinacid.net/)
+* [Godar film generator](https://rednoise.org/rita/gallery/TheGodardFilmGenerator/)
 * [Jenny Holzer](https://projects.jennyholzer.com/)
 * [Barbara Kruger](http://www.barbarakruger.com/art.shtml)
 * [Index de liens](https://textarthistory.com/artist-links/)
-* [Godar film generator](https://rednoise.org/rita/gallery/TheGodardFilmGenerator/)
 ### Guides
 * [Vanilla Javascript Text Animation Tutorial](https://www.youtube.com/watch?v=GUEB9FogoP8)
 * [JavaScript String Object - Programming with Text](https://www.youtube.com/watch?v=DcoAjEZYies)
 * [Vanilla JavaScript Text Animation Tutorial](https://www.youtube.com/watch?v=XGioNBHrFU4)
-
 ### Typographie
-[Velvetyne](https://velvetyne.fr/)
-[Tunera](http://www.tunera.xyz/)
-[Uncut](https://uncut.wtf/)
-[ANRT nancy](https://anrt-nancy.fr/fr/fonts/)
-[Typothèeque lusse](https://typotheque.luuse.fun/)
-[Libre foundries repo](https://gitlab.com/raphaelbastide/libre-foundries)
+* [Velvetyne](https://velvetyne.fr/)
+* [Tunera](http://www.tunera.xyz/)
+* [Uncut](https://uncut.wtf/)
+* [ANRT nancy](https://anrt-nancy.fr/fr/fonts/)
+* [Typothèeque lusse](https://typotheque.luuse.fun/)
+* [Libre foundries repo](https://gitlab.com/raphaelbastide/libre-foundries)
 
 # LEXIQUE (EN COURS)
 ## Serveur
