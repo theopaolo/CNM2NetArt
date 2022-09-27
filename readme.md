@@ -108,3 +108,7 @@ Manipuler et mettre en page du texte avec HTML et CSS
 ## DATA
 ## P2P : Peer to peer
 Le pair-à-pair, peer-to-peer ou P2P, définit un modèle de réseau informatique d'égal à égal entre ordinateurs, qui distribuent et reçoivent des données ou des fichiers. Dans ce type de réseau, comparable au réseau client-serveur, chaque client devient lui-même un serveur. Le P2P facilite et accélère les échanges entre plusieurs ordinateurs au sein d'un réseau.
+
+# COURS III - THE OLD WEB et autres liens
+
+* [NetArt ressources](https://www.are.na/theo-paolo/learnnetart)
