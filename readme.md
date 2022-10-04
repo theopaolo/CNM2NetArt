@@ -124,3 +124,6 @@ Absolu : l'adresse directe toujours accéssible d'un fichier ou d'un dossier. Il
 Relatif : l'adresse d'un fichier ou d'un dossier par rapport à un autre fichier ou dossier. Il commence toujours par le nom du dossier ou fichier de référence (ex : \Documents\)
 
 Dans notre cas nous utiliserons toujours de préférence des chemins relatifs.
+
+Un lien web est un chemin absolu
+Par exemple : www.monsupersite.com/monfichier.html est un lien absolu ves monfichier.html.
