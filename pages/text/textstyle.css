@@ -20,3 +20,9 @@ div:hover {
   font-size: 10rem;
   font-weight: bold;
 }
+
+@font-face {
+  font-family: "PPFragment-GlareRegular";
+  src: url(../../assets/);
+}
+

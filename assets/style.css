@@ -33,3 +33,33 @@ p {
 .paragraphe{
   font-size: 50px;
 }
+
+
+@font-face {
+  font-family: 'fragment';
+  src: url('font/fragment/ppfragment-textregular.woff2') format('woff2'),
+       url('font/fragment/ppfragment-textregular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+h1 {
+  font-family: "fragment", 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 240px;
+}
+
+a {
+  background-color: white;
+  text-decoration: none;
+  font-size: 45px;
+  padding: 10px;
+  border: 1px solid black;
+  color: #f69d3c;
+  font-family: sans-serif;
+}
+
+a:hover {
+  background-color: #f69d3c;
+  color: #3f87a6;
+}

@@ -112,3 +112,15 @@ Le pair-à-pair, peer-to-peer ou P2P, définit un modèle de réseau informatiqu
 # COURS III - THE OLD WEB et autres liens
 
 * [NetArt ressources](https://www.are.na/theo-paolo/learnnetart)
+
+
+# COURS IV - CODECODECODE
+
+Qu'est-ce qu'un chemin ?
+Un chemin est l'emplacement unique d'un fichier (ou dossier) particulier. Il peut être relatif ou absolu.
+
+Absolu : l'adresse directe toujours accéssible d'un fichier ou d'un dossier. Il commence toujours par le nom du disque dur (ex : C:\Users\Documents\)
+
+Relatif : l'adresse d'un fichier ou d'un dossier par rapport à un autre fichier ou dossier. Il commence toujours par le nom du dossier ou fichier de référence (ex : \Documents\)
+
+Dans notre cas nous utiliserons toujours de préférence des chemins relatifs.
