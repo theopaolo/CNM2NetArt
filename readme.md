@@ -76,6 +76,8 @@ Manipuler et mettre en page du texte avec HTML et CSS
 ## LIENS
 ### Outils
 * [FramaPad](https://mypads2.framapad.org/p/netart-uu1igq9bq)
+
+### Libre web
 * [Chatons](https://www.chatons.org/)
 * [Framalibre](https://framalibre.org/)
 ### Oeuvres

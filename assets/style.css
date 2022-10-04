@@ -37,7 +37,8 @@ p {
 
 @font-face {
   font-family: 'fragment';
-  src: url('font/fragment/ppfragment-textregular.woff2') format('woff2'),
+  src: url('font/fragment/ppfragment-textregular.woff2'
+  ) format('woff2'),
        url('font/fragment/ppfragment-textregular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
