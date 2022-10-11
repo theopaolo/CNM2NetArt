@@ -116,7 +116,7 @@ Le pair-à-pair, peer-to-peer ou P2P, définit un modèle de réseau informatiqu
 * [NetArt ressources](https://www.are.na/theo-paolo/learnnetart)
 
 
-# COURS IV - CODECODECODE
+# COURS IV - CHEMINS
 
 Qu'est-ce qu'un chemin ?
 Un chemin est l'emplacement unique d'un fichier (ou dossier) particulier. Il peut être relatif ou absolu.
@@ -129,3 +129,31 @@ Dans notre cas nous utiliserons toujours de préférence des chemins relatifs.
 
 Un lien web est un chemin absolu
 Par exemple : www.monsupersite.com/monfichier.html est un lien absolu ves monfichier.html.
+
+[Plus d'info](chemin.md)
+
+# COURS V - CODECODECODE
+Cours tutos, on code, on apprend, on se fait plaisir.
+* https://tympanus.net/codrops/category/tutorials/page/2/
+* https://codepen.io/search/pens?q=
+* https://codepen.io/edgepirate/pen/YzPzMwb
+* https://portswigger.net/research/creating-a-3d-world-in-pure-css
+* https://3dtransforms.desandro.com/cube
+* https://codepen.io/yaclive/pen/EayLYO?editors=0010
+* https://codepen.io/andykisaragi/pen/kXqMKq
+* https://css-tricks.com/the-shapes-of-css/
+* https://albertwalicki.com/blog/creating-shapes-in-css
+* https://bennettfeely.com/clippy/
+* https://www.24joursdeweb.fr/2018/dessiner-en-css-c-est-facile/
+* https://developer.mozilla.org/fr/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
+* https://developer.mozilla.org/fr/docs/Web/HTML/Element/map
+* https://www.w3schools.com/html/html_images_imagemap.asp
+* https://animejs.com/
+* https://www.creativebloq.com/inspiration/css-animation-examples
+* https://freefrontend.com/css-animation-examples/
+* https://codepen.io/__akash__19/pen/QWKpyMm
+* https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Animations/Using_CSS_animations#:~:text=Les%20animations%20CSS%20permettent%20de,%C3%A9tats%20interm%C3%A9diaires%20d'autre%20part
+* https://openclassrooms.com/fr/courses/5919246-creez-des-animations-css-modernes
+* https://codepen.io/cycosta/pen/OJMebrQ
+* https://codepen.io/stephaniewalter/pen/xxVgReM?editors=1100
+* https://freefrontend.com/css-code-examples/#sitemap-effects
