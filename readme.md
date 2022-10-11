@@ -132,8 +132,10 @@ Par exemple : www.monsupersite.com/monfichier.html est un lien absolu ves monfic
 
 [Plus d'info](chemin.md)
 
-# COURS V - CODECODECODE
-Cours tutos, on code, on apprend, on se fait plaisir.
+# COURS V -  Rutos, on code, on apprend, on se fait plaisir
+
+Soyez autonome avec les ressources suivantes :
+
 * https://tympanus.net/codrops/category/tutorials/page/2/
 * https://codepen.io/search/pens?q=
 * https://codepen.io/edgepirate/pen/YzPzMwb
