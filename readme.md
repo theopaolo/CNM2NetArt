@@ -159,3 +159,5 @@ Soyez autonome avec les ressources suivantes :
 * https://codepen.io/cycosta/pen/OJMebrQ
 * https://codepen.io/stephaniewalter/pen/xxVgReM?editors=1100
 * https://freefrontend.com/css-code-examples/#sitemap-effects
+* https://alvarotrigo.com/fullPage
+* https://codepen.io/stephaniewalter/pen/xxVgReM?editors=1100
