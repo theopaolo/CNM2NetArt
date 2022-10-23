@@ -136,21 +136,41 @@ Par exemple : www.monsupersite.com/monfichier.html est un lien absolu ves monfic
 
 Soyez autonome avec les ressources suivantes :
 
+Tutorial en vrac
 * https://tympanus.net/codrops/category/tutorials/page/2/
 * https://codepen.io/search/pens?q=
+* https://freefrontend.com/css-code-examples/#sitemap-effects
+
+Effect cube 3D
 * https://codepen.io/edgepirate/pen/YzPzMwb
-* https://portswigger.net/research/creating-a-3d-world-in-pure-css
 * https://3dtransforms.desandro.com/cube
+
+Effect planete
+* https://portswigger.net/research/creating-a-3d-world-in-pure-css
+
+Effect Matrix
 * https://codepen.io/yaclive/pen/EayLYO?editors=0010
 * https://codepen.io/andykisaragi/pen/kXqMKq
+
+Formes en css
 * https://css-tricks.com/the-shapes-of-css/
 * https://albertwalicki.com/blog/creating-shapes-in-css
-* https://bennettfeely.com/clippy/
 * https://www.24joursdeweb.fr/2018/dessiner-en-css-c-est-facile/
+
+Clip en css
+* https://bennettfeely.com/clippy/
+
+Forme en JS
 * https://developer.mozilla.org/fr/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
+
+Zone clicable sur image
 * https://developer.mozilla.org/fr/docs/Web/HTML/Element/map
 * https://www.w3schools.com/html/html_images_imagemap.asp
+
+Animation en JS
 * https://animejs.com/
+
+Animation en CSS
 * https://www.creativebloq.com/inspiration/css-animation-examples
 * https://freefrontend.com/css-animation-examples/
 * https://codepen.io/__akash__19/pen/QWKpyMm
@@ -158,9 +178,9 @@ Soyez autonome avec les ressources suivantes :
 * https://openclassrooms.com/fr/courses/5919246-creez-des-animations-css-modernes
 * https://codepen.io/cycosta/pen/OJMebrQ
 * https://codepen.io/stephaniewalter/pen/xxVgReM?editors=1100
-* https://freefrontend.com/css-code-examples/#sitemap-effects
+
+Page full screen
 * https://alvarotrigo.com/fullPage
-* https://codepen.io/stephaniewalter/pen/xxVgReM?editors=1100
 
 
 # Les scipts qui font plez
