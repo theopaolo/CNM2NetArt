@@ -100,15 +100,16 @@ Manipuler et mettre en page du texte avec HTML et CSS
 * [Libre foundries repo](https://gitlab.com/raphaelbastide/libre-foundries)
 
 # LEXIQUE (EN COURS)
-## Serveur
-## Client
-## Centralization et decentralization
-## Interface
-## WEB
-## NET
-## Code
-## DATA
-## P2P : Peer to peer
+
+### Serveur
+### Client
+### Centralization et decentralization
+### Interface
+### WEB
+### NET
+### Code
+### DATA
+### P2P : Peer to peer
 Le pair-à-pair, peer-to-peer ou P2P, définit un modèle de réseau informatique d'égal à égal entre ordinateurs, qui distribuent et reçoivent des données ou des fichiers. Dans ce type de réseau, comparable au réseau client-serveur, chaque client devient lui-même un serveur. Le P2P facilite et accélère les échanges entre plusieurs ordinateurs au sein d'un réseau.
 
 # COURS III - THE OLD WEB et autres liens
@@ -132,7 +133,7 @@ Par exemple : www.monsupersite.com/monfichier.html est un lien absolu ves monfic
 
 [Plus d'info](chemin.md)
 
-# COURS V -  Tutos, on code, on apprend, on se fait plaisir
+# COURS V -  Tutos, on code, on apprend, on se fait plaisir !
 
 Soyez autonome avec les ressources suivantes :
 
@@ -141,36 +142,36 @@ Tutorial en vrac
 * https://codepen.io/search/pens?q=
 * https://freefrontend.com/css-code-examples/#sitemap-effects
 
-Effect cube 3D
+### Effect cube 3D
 * https://codepen.io/edgepirate/pen/YzPzMwb
 * https://3dtransforms.desandro.com/cube
 
-Effect planete
+### Effect planete
 * https://portswigger.net/research/creating-a-3d-world-in-pure-css
 
-Effect Matrix
+### Effect Matrix
 * https://codepen.io/yaclive/pen/EayLYO?editors=0010
 * https://codepen.io/andykisaragi/pen/kXqMKq
 
-Formes en css
+### Formes en css
 * https://css-tricks.com/the-shapes-of-css/
 * https://albertwalicki.com/blog/creating-shapes-in-css
 * https://www.24joursdeweb.fr/2018/dessiner-en-css-c-est-facile/
 
-Clip en css
+### Clip en css
 * https://bennettfeely.com/clippy/
 
-Forme en JS
+### Forme en JS
 * https://developer.mozilla.org/fr/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
 
-Zone clicable sur image
+### Zone clicable sur image
 * https://developer.mozilla.org/fr/docs/Web/HTML/Element/map
 * https://www.w3schools.com/html/html_images_imagemap.asp
 
-Animation en JS
+### Animation en JS
 * https://animejs.com/
 
-Animation en CSS
+### Animation en CSS
 * https://www.creativebloq.com/inspiration/css-animation-examples
 * https://freefrontend.com/css-animation-examples/
 * https://codepen.io/__akash__19/pen/QWKpyMm
@@ -179,11 +180,11 @@ Animation en CSS
 * https://codepen.io/cycosta/pen/OJMebrQ
 * https://codepen.io/stephaniewalter/pen/xxVgReM?editors=1100
 
-Page full screen
+### Page full screen
 * https://alvarotrigo.com/fullPage
 
 
-# Les scipts qui font plez
+# Les scipts pour faire des choses en JS
 
 ## Générer une chiffre aléatoire
 
@@ -197,9 +198,9 @@ function getRandomInt(max) {
 
 ```javascript
 function getRandomColor() {
-  var letters = '0123456789ABCDEF';
-  var color = '#';
-  for (var i = 0; i < 6; i++) {
+  let letters = '0123456789ABCDEF';
+  let color = '#';
+  for (let i = 0; i < 6; i++) {
     color += letters[Math.floor(Math.random() * 16)];
   }
   return color;
@@ -210,9 +211,9 @@ function getRandomColor() {
 
 ```javascript
 function getRandomColor() {
-  var letters = '0123456789ABCDEF';
-  var color = '#';
-  for (var i = 0; i < 6; i++) {
+  let letters = '0123456789ABCDEF';
+  let color = '#';
+  for (let i = 0; i < 6; i++) {
     color += letters[Math.floor(Math.random() * 16)];
   }
   return color;
@@ -244,69 +245,75 @@ function getRandomIntInclusive(min, max) {
   });
   ```
 
-## Divide screen in half
+## Divisez l'écran en deux
 
-    ```javascript
-    let half = window.innerWidth / 2;
-    ```
+```javascript
+  let half = window.innerWidth / 2;
+```
 
-## Detect if mouse is in the left or right half of the screen
+## Détecter si la souris est dans la moitié gauche ou droite de l'écran
 
-  ```javascript
+```javascript
+
   if (e.clientX < half) {
     console.log('left');
   } else {
     console.log('right');
   }
-  ```
 
-## Detect if mouse is in the top or bottom half of the screen
+```
 
-  ```javascript
+## Détecter si la souris est dans la moitié supérieure ou inférieure de l'écran
+
+```javascript
   let half = window.innerHeight / 2;
   if (e.clientY < half) {
     console.log('top');
   } else {
     console.log('bottom');
   }
-  ```
+```
 
-## Move an element randomly inside viewport
+## Déplacer un élément de façon aléatoire dans la fenêtre
 
-    ```javascript
+```javascript
     const randomX = Math.floor(Math.random() * window.innerWidth);
     const randomY = Math.floor(Math.random() * window.innerHeight);
     element.style.transform = `translate(${randomX}px, ${randomY}px)`;
-    ```
+```
 
-## Move an element randomly inside viewport with a random rotation
+## Déplacer un élément de façon aléatoire dans le viewport avec une rotation aléatoire
 
-    ```javascript
-    const randomX = Math.floor(Math.random() * window.innerWidth);
-    const randomY = Math.floor(Math.random() * window.innerHeight);
-    const randomRotate = Math.floor(Math.random() * 360);
-    element.style.transform = `translate(${randomX}px, ${randomY}px) rotate(${randomRotate}deg)`;
-    ```
+```javascript
+const randomX = Math.floor(Math.random() * window.innerWidth);
+const randomY = Math.floor(Math.random() * window.innerHeight);
+const randomRotate = Math.floor(Math.random() * 360);
+element.style.transform = `translate(${randomX}px, ${randomY}px) rotate(${randomRotate}deg)`;
+```
 
 
 ## Réagir à un clic sur un bouton
 
+```javascript
   <button onclick="maFonction()">Click Me!</button>
 
   function maFonction() {
     alert("Je fais des trucs!");
   }
+```
 
 ## Réagir à un clic sur un bouton avec un paramètre
 
+```javascript
   <button onclick="maFonction('monParam')">Click Me!</button>
 
     function maFonction(param) {
       alert(param);
     }
-
+```
 ## Réagir à un clic sur un bouton avec un paramètre et une fonction
 
+```javascript
       <button onclick="maFonction('monParam', maFonction2)">Click Me!</button>
 
       function maFonction(param, fonction) {
@@ -317,7 +324,9 @@ function getRandomIntInclusive(min, max) {
       function maFonction2() {
         alert("Je fais des trucs!");
       }
+```
 
+```javascript
 ## Réagir à un clic sur un bouton avec un paramètre et une fonction et un paramètre pour la fonction
 
         <button onclick="maFonction('monParam', maFonction2, 'monParam2')">Click Me!</button>
@@ -330,7 +339,9 @@ function getRandomIntInclusive(min, max) {
         function maFonction2(param) {
           alert(param);
         }
+```
 
+```javascript
 ## Réagir à un clic sur un bouton avec un paramètre et une fonction et un paramètre pour la fonction et une fonction pour le paramètre de la fonction
 
           <button onclick="maFonction('monParam', maFonction2, 'monParam2', maFonction3)">Click Me!</button>
@@ -348,21 +359,24 @@ function getRandomIntInclusive(min, max) {
           function maFonction3() {
             alert("Je fais des trucs!");
           }
+```
+
 
 ## Ecouter un événement
-
+```javascript
     document.addEventListener('click', function() {
       alert("Je fais des trucs!");
     });
+```
 
 ## Ecouter un événement avec un paramètre
-
+```javascript
       document.addEventListener('click', function(param) {
         alert(param);
       });
-
+```
 ## Ecouter un événement avec un paramètre et une fonction
-
+```javascript
         document.addEventListener('click', function(param, fonction) {
           alert(param);
           fonction();
@@ -371,32 +385,88 @@ function getRandomIntInclusive(min, max) {
         function maFonction() {
           alert("Je fais des trucs!");
         }
+```
 
 ## Ecouter l'entré de la souris sur un élément
 
+```javascript
         document.getElementById('monElement').addEventListener('mouseenter', function() {
           alert("Je fais des trucs!");
         });
+```
+
 
 ## Ecouter la sortie de la souris sur un élément
 
-    document.getElementById('monElement').addEventListener('mouseleave', function() {
-            alert("Je fais des trucs!");
-          });
-
+```javascript
+  document.getElementById('monElement').addEventListener('mouseleave', function() {
+    alert("Je fais des trucs!");
+  });
+```
 ## Ecouter le click de la souris sur un élémént
 
-            document.getElementById('monElement').addEventListener('click', function() {
-              alert("Je fais des trucs!");
-            });
+```javascript
+  document.getElementById('monElement').addEventListener('click', function() {
+    alert("Je fais des trucs!");
+  });
+```
 
+```javascript
 ## Ecouter le scroll de la souris sur un élémént
 
-              document.getElementById('monElement').addEventListener('wheel', function() {
-                alert("Je fais des trucs!");
-              });
+  document.getElementById('monElement').addEventListener('wheel', function() {
+    alert("Je fais des trucs!");
+  });
+```
 
 
+## Références des présentations
+
+### Talia Cotton
+https://taliacotton.com/
+https://www.instagram.com/p/CdbGRGTOtD1/
+
+### Yehwan Song
+https://yhsong.com/
+https://www.instagram.com/yehwan.yen.song/
+
+### Maude Veilleux
+https://nt2.uqam.ca/fr/repertoire/frankie-et-alex-black-lake-super-now
+
+### Systaime - Michel Boras
+https://nt2.uqam.ca/fr/repertoire/systaime
+French trash touch
+
+### Chris May
+https://nt2.uqam.ca/fr/repertoire/chris-may
+
+### Hunter Jonakin
+http://hunterjonakin.com/
+
+### Isaac Cohen - cabbibo
+https://www.instagram.com/cabbibo/?hl=en
+https://cabbi.bo/
+
+### Thomas Paquet - The Observatory
+https://www.thomas-paquet.com/the-observatory.html
+
+Travaux photo principalement
+La temporalité, comment s'expose l'oeuvre dart et l'aspect non matérielle de l'oeuvre
+
+The Observatory
+La nature du temps et les domaines scientifique
+Position de la lune et du soleil
+
+Separation/séparation - Annie Abrahamas
+https://www.bram.org/separation/indexfr.htm
 
 
+### James Bridle : New Aesthetic
+Question de l'art et de la technologie, la surveillance.
+https://www.instagram.com/dronestagram/?hl=en
+Rorshmap
 
+### Heath Bunting
+https://irational.org/
+net.art dans les années 90
+Faux site du cern

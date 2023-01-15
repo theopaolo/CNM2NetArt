@@ -9,8 +9,52 @@
   <title>CNM2 - NetArt</title>
 </head>
 <body>
-  <h1>SoftArt.net</h1>
-
-  <script src="assets/js/app.js"></script>
+  <p class="text">du texte</p>
+  <p class="text">du texte</p>
+  <p class="text">du texte</p>
+  <p class="text">du texte</p>
+  <p class="text">du texte</p>
+  <p class="text">du texte</p>
+  <p class="text">du texte</p>
+  <p class="text">du texte</p>
+  <p class="text">du texte</p>
+  <p class="text">du texte</p>
+  <script type="module" src="assets/js/index.js"></script>
 </body>
 </html>
+
+<script>
+
+function getRandomColor() {
+  var letters = '0123456789ABCDEF';
+  var color = '#';
+  for (var i = 0; i < 6; i++) {
+    color += letters[Math.floor(Math.random() * 16)];
+  }
+  return color;
+}
+
+  const mesTextes = document.querySelectorAll('.text');
+
+  mesTextes.forEach((texte) => {
+      setInterval(() => {
+        texte.style.color = getRandomColor();
+      }, 500);
+  });
+
+  function ouvrirefenetres(){
+    const link1 = 'https://www.google.com/';
+    const link2 = 'https://www.google.com/';
+
+    window.open(link1);
+    window.open(link2);
+
+    setInterval(() => {
+      window.open(link2);
+      }, 500);
+  }
+
+  const bouton = document.querySelector('button');
+
+  button.addEventListener('click', ouvrirefenetres);
+</script>
