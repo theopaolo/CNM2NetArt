@@ -239,11 +239,11 @@ function getRandomIntInclusive(min, max) {
 ```
 ## Récupérer la position du pointeur de la souris en temps réel
 
-  ```javascript
+```javascript
   document.addEventListener('mousemove', function(e) {
     console.log(e.clientX, e.clientY);
   });
-  ```
+```
 
 ## Divisez l'écran en deux
 
@@ -277,18 +277,18 @@ function getRandomIntInclusive(min, max) {
 ## Déplacer un élément de façon aléatoire dans la fenêtre
 
 ```javascript
-    const randomX = Math.floor(Math.random() * window.innerWidth);
-    const randomY = Math.floor(Math.random() * window.innerHeight);
-    element.style.transform = `translate(${randomX}px, ${randomY}px)`;
+  const randomX = Math.floor(Math.random() * window.innerWidth);
+  const randomY = Math.floor(Math.random() * window.innerHeight);
+  element.style.transform = `translate(${randomX}px, ${randomY}px)`;
 ```
 
 ## Déplacer un élément de façon aléatoire dans le viewport avec une rotation aléatoire
 
 ```javascript
-const randomX = Math.floor(Math.random() * window.innerWidth);
-const randomY = Math.floor(Math.random() * window.innerHeight);
-const randomRotate = Math.floor(Math.random() * 360);
-element.style.transform = `translate(${randomX}px, ${randomY}px) rotate(${randomRotate}deg)`;
+  const randomX = Math.floor(Math.random() * window.innerWidth);
+  const randomY = Math.floor(Math.random() * window.innerHeight);
+  const randomRotate = Math.floor(Math.random() * 360);
+  element.style.transform = `translate(${randomX}px, ${randomY}px) rotate(${randomRotate}deg)`;
 ```
 
 
@@ -307,92 +307,92 @@ element.style.transform = `translate(${randomX}px, ${randomY}px) rotate(${random
 ```javascript
   <button onclick="maFonction('monParam')">Click Me!</button>
 
-    function maFonction(param) {
-      alert(param);
-    }
+  function maFonction(param) {
+    alert(param);
+  }
 ```
 ## Réagir à un clic sur un bouton avec un paramètre et une fonction
 
 ```javascript
-      <button onclick="maFonction('monParam', maFonction2)">Click Me!</button>
+  <button onclick="maFonction('monParam', maFonction2)">Click Me!</button>
 
-      function maFonction(param, fonction) {
-        alert(param);
-        fonction();
-      }
+  function maFonction(param, fonction) {
+    alert(param);
+    fonction();
+  }
 
-      function maFonction2() {
-        alert("Je fais des trucs!");
-      }
+  function maFonction2() {
+    alert("Je fais des trucs!");
+  }
 ```
 
 ```javascript
 ## Réagir à un clic sur un bouton avec un paramètre et une fonction et un paramètre pour la fonction
 
-        <button onclick="maFonction('monParam', maFonction2, 'monParam2')">Click Me!</button>
+  <button onclick="maFonction('monParam', maFonction2, 'monParam2')">Click Me!</button>
 
-        function maFonction(param, fonction, param2) {
-          alert(param);
-          fonction(param2);
-        }
+  function maFonction(param, fonction, param2) {
+    alert(param);
+    fonction(param2);
+  }
 
-        function maFonction2(param) {
-          alert(param);
-        }
+  function maFonction2(param) {
+    alert(param);
+  }
 ```
 
 ```javascript
 ## Réagir à un clic sur un bouton avec un paramètre et une fonction et un paramètre pour la fonction et une fonction pour le paramètre de la fonction
 
-          <button onclick="maFonction('monParam', maFonction2, 'monParam2', maFonction3)">Click Me!</button>
+  <button onclick="maFonction('monParam', maFonction2, 'monParam2', maFonction3)">Click Me!</button>
 
-          function maFonction(param, fonction, param2, fonction2) {
-            alert(param);
-            fonction(param2, fonction2);
-          }
+  function maFonction(param, fonction, param2, fonction2) {
+    alert(param);
+    fonction(param2, fonction2);
+  }
 
-          function maFonction2(param, fonction) {
-            alert(param);
-            fonction();
-          }
+  function maFonction2(param, fonction) {
+    alert(param);
+    fonction();
+  }
 
-          function maFonction3() {
-            alert("Je fais des trucs!");
-          }
+  function maFonction3() {
+    alert("Je fais des trucs!");
+  }
 ```
 
 
 ## Ecouter un événement
 ```javascript
-    document.addEventListener('click', function() {
-      alert("Je fais des trucs!");
-    });
+  document.addEventListener('click', function() {
+    alert("Je fais des trucs!");
+  });
 ```
 
 ## Ecouter un événement avec un paramètre
 ```javascript
-      document.addEventListener('click', function(param) {
-        alert(param);
-      });
+  document.addEventListener('click', function(param) {
+    alert(param);
+  });
 ```
 ## Ecouter un événement avec un paramètre et une fonction
 ```javascript
-        document.addEventListener('click', function(param, fonction) {
-          alert(param);
-          fonction();
-        });
+  document.addEventListener('click', function(param, fonction) {
+    alert(param);
+    fonction();
+  });
 
-        function maFonction() {
-          alert("Je fais des trucs!");
-        }
+  function maFonction() {
+    alert("Je fais des trucs!");
+  }
 ```
 
 ## Ecouter l'entré de la souris sur un élément
 
 ```javascript
-        document.getElementById('monElement').addEventListener('mouseenter', function() {
-          alert("Je fais des trucs!");
-        });
+  document.getElementById('monElement').addEventListener('mouseenter', function() {
+    alert("Je fais des trucs!");
+  });
 ```
 
 
@@ -411,9 +411,10 @@ element.style.transform = `translate(${randomX}px, ${randomY}px) rotate(${random
   });
 ```
 
-```javascript
+
 ## Ecouter le scroll de la souris sur un élémént
 
+```javascript
   document.getElementById('monElement').addEventListener('wheel', function() {
     alert("Je fais des trucs!");
   });
